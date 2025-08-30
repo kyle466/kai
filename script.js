@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, sobrang miss na miss na kita.\nAlam ko naman na triny naman talaga natin magwork, napagod ka and naubos ka. Gustong gusto kong sabihin sayo na, No matter what happened between us, i will always cherish our moments together, its a core memory for me seeing you smile, laugh, and tarayan together.\nI will always support you, maikki. Kahit na hindi na tayo naguusap, im always rooting for your success and happiness in life.\nMy door is open for you always. Dami ko gusto sabihin, next time na lang. Ikaw parin talaga haha. Take care of yourself, I love you!`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,5 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
+
